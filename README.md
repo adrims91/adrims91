@@ -13,7 +13,7 @@ Currently, I am 33 years old. I'm passionate about coding, and i want to be a gr
 
 
 <a href="https://github.com/adrims91" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
+src="https://img.shields.io/github/followers/adrims91?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 
 <h1 align="center">Languages and Tools:</h1>
 <br/> 
