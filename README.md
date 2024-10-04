@@ -61,9 +61,9 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
   
 
 
-<a href="http://www.github.com/krishnadev7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnadev7&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+<a href="https://github.com/adrims91"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adrims91&stroke=a855f7&background=0f172a&ring=f97316&fire=f97316&currStreakNum=a855f7&currStreakLabel=f97316&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
   
-<a href="https://github.com/krishnadev7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnadev7&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/adrims91" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrims91&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
   
   <div align="center"> <img src="https://komarev.com/ghpvc/?username=krishnadev7&&style=flat-square" align="center" /> </div>
