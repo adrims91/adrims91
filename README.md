@@ -57,7 +57,7 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
   <div align='center'>
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/adrims91"><img src="https://github-readme-stats.vercel.app/api?username=krishnadev7&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="adrims91 stats" /></a>
+<a href="https://github.com/adrims91"><img src="https://github-readme-stats.vercel.app/api?username=adrims91&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="adrims91 stats" /></a>
   
 
 
