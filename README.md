@@ -66,7 +66,7 @@ src="https://img.shields.io/github/followers/krishnadev7?logo=github&style=for-t
 <a href="https://github.com/adrims91" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrims91&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
   
-  <div align="center"> <img src="https://komarev.com/ghpvc/?username=krishnadev7&&style=flat-square" align="center" /> </div>
+  <div align="center"> <img src="https://komarev.com/ghpvc/?username=adrims91&&style=flat-square" align="center" /> </div>
 
 
 
