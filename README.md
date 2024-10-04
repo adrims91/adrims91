@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Adrián Muñoz 👋
+Soy un apasionado del código, actualmente aprendiendo desarrollo web en 4Geeks Academy.
 
-<!--
-**adrims91/adrims91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¿Qué estoy aprendiendo?
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Bootstrap**
+- **React**
+- **Python**
+- **More to come**
 
-Here are some ideas to get you started:
+## Proyectos Futuros
+- Crear una página personal usando HTML, CSS y JAVASCRIPT.
+- Desarrollar un sitio web de portafolio para mostrar mis habilidades y proyectos.
+- Desarrollar habilidades Frontend al máximo nivel que pueda.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades a desarrollar
+- Desarrollo Frontend (Al máximo nivel)**
+- Trabajo en equipo
+- Resolución de problemas
+
+## ¿Quieres ponerte en contacto?
+- [LinkedIn] - (https://www.linkedin.com/in/adrian-muñoz-soto-a26b81207/)
+- [Twitter] - @adrims91
+- [Correo electrónico] - adrims91@gmail.com
+
