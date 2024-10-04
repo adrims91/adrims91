@@ -8,8 +8,8 @@ Currently, I am 33 years old. I'm passionate about coding, and i want to be a gr
 
 * 🌍  I'm based in Nerja, Spain
 * ✉️  You can contact me at [adrims91@gmail.com](mailto:adrims91@gmail.com)
-* 🧠  I'm learning MERN stack developement
-* 🤝  I'm open to collaborating on open source projects
+* 🧠  I'm learning EVERYTHING at 4Geeks Academy
+* 🤝  I'll be open to collaborate on open source projects in the future
 
 
 <a href="https://github.com/adrims91" target="_blank" rel="noreferrer"><img
