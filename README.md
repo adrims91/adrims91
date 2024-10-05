@@ -8,7 +8,7 @@ Currently, I am 33 years old. I'm passionate about coding, and i want to be a gr
 
 * 🌍  I'm based in Nerja, Spain
 * ✉️  You can contact me at [adrims91@gmail.com](mailto:adrims91@gmail.com)
-* 🧠  I'm learning EVERYTHING at 4Geeks Academy
+* 🧠  I'm learning HTML, CSS, JAVASCRIPT, BOOTSTRAP, PYTHON... at 4Geeks Academy
 * 🤝  I'll be open to collaborate on open source projects in the future
 
 
