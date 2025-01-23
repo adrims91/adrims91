@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/adrims91?logo=github&style=for-the-
 <h1 align="center">Connect with me:</h1>
 <br/> 
 <p align="center">
-<a href="https://twitter.com/adrims91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adrims91" height="30" width="40" /></a>
+<a href="https://x.com/adrianmsdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adrims91" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adrian-muñoz-soto-a26b81207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrims91" height="30" width="40" /></a>
 <a href="https://instagram.com/adrims91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrims91" height="30" width="40" /></a>
 </p>  
