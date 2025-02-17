@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/adrims91?logo=github&style=for-the-
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> 
+        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="NodeJS" width="40" height="40"/> 
     </a>
 </p>
 <br/>  
