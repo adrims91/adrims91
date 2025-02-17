@@ -1,15 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrián Muñoz Soto
 ==================================================================================================================================
 
-I am actually coursing a BootCamp in 4Geeks Academy
-------------------------------
 
-Currently, I am 33 years old. I'm passionate about coding, and i want to be a great front-end developer!
 
 * 🌍  I'm based in Nerja, Spain
-* ✉️  You can contact me at [adrims91@gmail.com](mailto:adrims91@gmail.com)
-* 🧠  I'm learning HTML, CSS, JAVASCRIPT, BOOTSTRAP, PYTHON... and more to come!
-* 🤝  I'll be open to collaborate on open source projects in the future
+* ✉️  You can contact me at [adrianmsdev@gmail.com](mailto:adrianmsdev@gmail.com)
+* 🧠  HTML, CSS, JAVASCRIPT, BOOTSTRAP, PYTHON, REACT, NODE.JS and more to come!
+* 🤝  I'll be open to collaborate on open source projects
 
 
 <a href="https://github.com/adrims91" target="_blank" rel="noreferrer"><img
